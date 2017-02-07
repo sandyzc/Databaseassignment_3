@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Database assignment 3</string>
+    <string name="search_here">Search here</string>
+    <string name="age">AGE</string>
+    <string name="pic">pic</string>
+    <string name="name">NAME</string>
+</resources>
